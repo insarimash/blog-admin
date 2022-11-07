@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import React, { useState } from "react";
+import React from "react";
 import { Route, Routes, BrowserRouter } from 'react-router-dom'
 // import EditPost from "./pages/posts/EditPost";
 // import NewPost from "./pages/posts/NewPost";
